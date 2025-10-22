@@ -1,27 +1,12 @@
 # sql-data-warehouse-project
-Buliding a modern data warehouse with SQL Server, including ETL processes,data modeling and analytics
-## data **architect**
-## data  **base desgin**
-## **data pipelines**
-## **dat modeling**
-## **data analyics**
-😄
-🚀
-🇮🇳
-📅
-- apple
-- mango
- - 1
- - 2
-1. one
-2. secound
-3. tyhrid
-[oops lectures by iitm ](https://cse.iitm.ac.in/~rupesh/teaching/ooaia/jan25/)
+
+# Data Warehouse and Analytics Project
+
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+
 ---
-| name | age | country |
-|---|---|---|
-| john | 25 | USA |
-| ravi | 22 | Inida |
-![flaticon](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bb43fa1c-66a3-40b7-91ff-6eff941a311e" />
-)
-`print("Hello world")`
+
+## 🏗️ Data Architecture
+
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
