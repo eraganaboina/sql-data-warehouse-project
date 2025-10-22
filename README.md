@@ -9,9 +9,9 @@ Buliding a modern data warehouse with SQL Server, including ETL processes,data m
 🚀
 🇮🇳
 📅
--apple
--mango
- -1
+- apple
+- mango
+ - 1
  -2
 1.one
 2.secound
