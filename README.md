@@ -24,4 +24,4 @@ Buliding a modern data warehouse with SQL Server, including ETL processes,data m
 | ravi | 22 | Inida |
 ![flaticon](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bb43fa1c-66a3-40b7-91ff-6eff941a311e" />
 )
-
+`print("Hello world")`
